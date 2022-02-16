@@ -27,4 +27,6 @@ document.querySelector('input[="checkbox"]')
 });
 
 document.querySelector('input[type="text"]')
-.addEventListener
+  .addEventListener('input', function(){
+    
+  })
