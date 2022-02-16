@@ -44,4 +44,5 @@ document.querySelector('input[type="text"]')
   }
 });
 
-let radios = document.getElementsByName
+let radios = document.getElementsByName('gender');
+radios.forEach
