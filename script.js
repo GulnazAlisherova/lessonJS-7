@@ -43,7 +43,4 @@ document.querySelector('input[type="text"]')
     alert()
   }
 });
-
-
-//copy
-aerh
+///tcasde
