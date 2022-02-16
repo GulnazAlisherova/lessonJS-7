@@ -14,5 +14,13 @@ document.querySelector('input[type="text"]')
 
 document.querySelector('input[="text"]')
    .addEventListener('change', function(){
-   alert('changed');
+   alert('Changed');
 });
+document.querySelector('input[="checkbox"]')
+   .addEventListener('change', function(){
+   if (this.value)
+});
+
+//attach changed to checkbox
+//if value is true output "You are employed" if false "You are unemployed"
+
