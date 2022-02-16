@@ -9,4 +9,4 @@ document.querySelector('input[type="text"]')
 });
 
 //blur - check if it's empty. If empty highlight borders red.
-//Focus - remove red
+//Focus - remove red borders.
