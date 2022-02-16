@@ -39,8 +39,11 @@ document.querySelector('input[type="text"]')
   if(this.value == ''){
     alert('Osh');
   }
-  else if (this.value == '');
-
+  else if (this.value == ''){
+    alert()
+  }
+  }
+//
 });
-  
+
 
