@@ -18,7 +18,10 @@ document.querySelector('input[="text"]')
 });
 document.querySelector('input[="checkbox"]')
    .addEventListener('change', function(){
-   if (this.value)
+   if (this.value){
+    alert('you are employed');
+   }
+   else
 });
 
 //attach changed to checkbox
