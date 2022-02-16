@@ -46,5 +46,7 @@ document.querySelector('input[type="text"]')
 
 let radios = document.getElementsByName('gender');
 radios.forEach(function(radio){
-  radio.addEventListener('input', function(event))
+  radio.addEventListener('input', function() {
+    
+  })
 })
