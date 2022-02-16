@@ -36,7 +36,11 @@ document.querySelector('input[type="text"]')
 //show akert with the region for the city
 document.querySelector('input[type="text"]')
   .addEventListener('input', function(){
-  if('input event triggered')
+  if(this.value == ''){
+    alert('Osh');
+  }
+  else if (this.value == '');
+
 });
   
 
