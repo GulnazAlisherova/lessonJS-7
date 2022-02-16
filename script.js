@@ -21,7 +21,9 @@ document.querySelector('input[="checkbox"]')
    if (this.value){
     alert('you are employed');
    }
-   else
+   else{
+    alert('you are unemployed');
+   }
 });
 
 //attach changed to checkbox
