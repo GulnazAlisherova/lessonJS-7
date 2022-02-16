@@ -51,4 +51,4 @@ radios.forEach(function(radio){
   });
 });
 
-alert(`${active.nextSibling`)
+alert(`${active.querySelector`)
