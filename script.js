@@ -28,5 +28,5 @@ document.querySelector('input[="checkbox"]')
 
 document.querySelector('input[type="text"]')
   .addEventListener('input', function(){
-  console.log
+  console.log('input event triggered')
   })
