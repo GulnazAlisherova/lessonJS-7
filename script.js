@@ -26,6 +26,4 @@ document.querySelector('input[="checkbox"]')
    }
 });
 
-//attach changed to checkbox
-//if value is true output "You are employed" if false "You are unemployed"
 
