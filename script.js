@@ -26,4 +26,4 @@ document.querySelector('input[="checkbox"]')
    }
 });
 
-document.querySelector
+document.querySelector('input')
