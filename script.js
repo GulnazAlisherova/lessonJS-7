@@ -1,2 +1,2 @@
 document.querySelector('input[="text"]')
-   .addEventListener
+   .addEventListener('focus', )
