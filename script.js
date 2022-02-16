@@ -34,3 +34,9 @@ document.querySelector('input[type="text"]')
   
 //when select changes
 //show akert with the region for the city
+document.querySelector('input[type="text"]')
+  .addEventListener('input', function(){
+  if('input event triggered')
+});
+  
+
