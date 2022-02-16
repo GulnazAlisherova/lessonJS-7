@@ -42,8 +42,7 @@ document.querySelector('input[type="text"]')
   else if (this.value == ''){
     alert()
   }
-  }
-//
 });
 
 
+/zdsth
