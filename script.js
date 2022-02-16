@@ -14,5 +14,5 @@ document.querySelector('input[type="text"]')
 
 document.querySelector('input[="text"]')
    .addEventListener('change', function(){
-   this.style.borderColor = "initial";
+   alert('changed');
 });
